@@ -1,9 +1,8 @@
 # Swisscom Computer Security Incident Response Team (CSIRT)
-Contact: mailto:csirt@swisscom.com
+Contact: https://www.first.org/members/teams/swisscom_csirt
 
 # Swisscom Bug Bounty Program
-Contact: mailto:bug.bounty@swisscom.com
-Policy: https://www.swisscom.ch/en/about/security/bug-bounty.html
+Contact: https://www.swisscom.ch/en/about/security/bug-bounty.html
 
-Expires: 2022-12-30T23:00:00.000Z
+Expires: 2022-12-31T23:59:59.000Z
 Preferred-Languages: en, de, fr
