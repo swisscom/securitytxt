@@ -4,5 +4,6 @@ Contact: https://www.first.org/members/teams/swisscom_csirt
 # Swisscom Bug Bounty Program
 Contact: https://www.swisscom.ch/en/about/security/bug-bounty.html
 
+Hiring: https://www.swisscom.ch/en/about/career/vacancies.html?q=security#current-vacancies
 Expires: 2022-12-31T23:59:59.000Z
 Preferred-Languages: en, de, fr
