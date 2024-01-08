@@ -10,7 +10,8 @@ Policy: https://github.com/swisscom/bugbounty
 
 # Open positions
 Hiring: https://www.swisscom.ch/en/about/career/vacancies.html?f=20%3A1018327&p=1
-Hiring: aHR0cHM6Ly9pbWd1ci5jb20vYS9kaFlkUXpq
 
-Expires: 2023-12-31T23:59:59.000Z
+Expires: 2024-12-31T23:59:59.000Z
 Preferred-Languages: en, de, fr
+
+# Canihazchallenge: aHR0cHM6Ly9naXRodWIuY29tL3N3aXNzY29tL3NlY3VyaXR5dHh0L2Jsb2IvbWFzdGVyL2NoYWxsZW5nZXMvMjAyNC5nYg== 
