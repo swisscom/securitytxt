@@ -20,4 +20,4 @@ The email value is an optional field. If you are worried about spam, you can set
 
 ## References
  * https://securitytxt.org
- * https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12#section-3.5.4
+ * https://www.rfc-editor.org/rfc/rfc9116
