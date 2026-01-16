@@ -11,4 +11,4 @@ Policy: https://github.com/swisscom/bugbounty
 Expires: 2026-12-31T23:59:59.000Z
 Preferred-Languages: en, de, fr
 
-# Canihazchallenge: stay tuned :-)
+# Canihazchallenge: aHR0cHM6Ly9naXRodWIuY29tL3N3aXNzY29tL3NlY3VyaXR5dHh0L2Jsb2IvbWFzdGVyL2NoYWxsZW5nZXMvMjAyNi53YXY=
